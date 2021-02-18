@@ -1,0 +1,7 @@
+Instructions:
+
+For questions that give multiple choice answers, please choose one of the options and only input the number of that option.
+For questions that require you to input a word, phrase, name, etc. DO NOT input special characters(only letters).
+There will be a score counter in the background. The initial score will be 0.
+For every correct answer, the score will be increased by 1, but for every wrong answer, the score will be decreased by 1.
+You will not be able to see your score in the middle of the quiz. The final score will be displayed at the end of the quiz.
